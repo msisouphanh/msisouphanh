@@ -3,7 +3,6 @@
 - I'm Marcus, a recent Information Technology graduate at York University.
 - I'm currently learning frontend teachnologies - `React`, `Typescript`, and `Tailwind`.
 - I am learning `Figma` for UI design and to sketch ideas.
-<br>
 
 ## Technologies
 
