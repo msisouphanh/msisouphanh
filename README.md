@@ -1,5 +1,3 @@
-![Banner gif](02ce873b8bda21f6cd5f9fe21bafdee6efafb60b.gif)
-
 ## About me
 
 - I am Marcus, a recent Information Technology graduate at York University.
@@ -20,3 +18,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff)](#)
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+<br>
+![Banner gif](02ce873b8bda21f6cd5f9fe21bafdee6efafb60b.gif)
