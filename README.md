@@ -1,4 +1,4 @@
-![Banner gif](c1fc9d7f6ae08d56f2b84e81799790a5.gif)
+![Banner gif](02ce873b8bda21f6cd5f9fe21bafdee6efafb60b.gif)
 
 ## About me
 
