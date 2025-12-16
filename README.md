@@ -1,3 +1,5 @@
+![Banner gif](c1fc9d7f6ae08d56f2b84e81799790a5.gif)
+
 ## About me
 
 - I am Marcus, a recent Information Technology graduate at York University.
